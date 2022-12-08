@@ -83,3 +83,10 @@
 #register{
     left:450px;
 }
+.logo{
+    width: 120px;
+    margin: 300px auto;
+}
+.logo img{
+    width:100%;
+}
